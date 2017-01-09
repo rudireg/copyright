@@ -1,0 +1,16 @@
+[__title__]
+Продвигаем: russina-cred
+[__description__]
+родвигаем: russina-credit.ru	My Article
+[__metatitle__]
+Продвигаем: russina-cred
+[__metakeywords__]
+Продвигаем: russina-cred
+[__metadescription__]
+Продвигаем: russina-cred
+[__slug__]
+Продвигаем: russina-cred
+[__snippet__]
+Snipet
+[__content__]
+Content

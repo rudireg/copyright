@@ -1,0 +1,9 @@
+User-agent:*
+Allow: /
+Disallow: /export
+
+User-Agent: Yandex
+Allow: /
+Disallow: /export
+Host: art.botinok.in
+
