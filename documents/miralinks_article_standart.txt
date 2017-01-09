@@ -1,0 +1,1 @@
+[__title__]Заголовок статьи[__description__]Описание (видите только вы)[__metatitle__]META title[__metakeywords__]META keywords[__metadescription__]META description[__slug__]Рекомендуемое для URL имя (например statja_o_plastikovyh_oknah)[__snippet__]Текст анонса[__content__]Собственно текст статьи в формате HTML
